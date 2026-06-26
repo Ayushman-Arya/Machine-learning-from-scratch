@@ -26,8 +26,10 @@ House price prediction using area as a feature.
 
 ### Regression Line
 
-![Regression](regression_line.png)
+![Regression](<img width="630" height="478" alt="image" src="https://github.com/user-attachments/assets/f3132ad3-2dff-4524-8f9f-f672fc2b6024" />
+)
 
 ### Cost Curve
 
-![Cost](cost_curve.png)
+![Cost](<img width="630" height="478" alt="image" src="https://github.com/user-attachments/assets/a597b783-a246-410c-a874-cc781f46ddc9" />
+)
